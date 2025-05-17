@@ -1,0 +1,97 @@
+﻿Paper
+"Guangyao Zhai, Dianye Huang, Shun-Cheng Wu, HyunJun Jung, Yan Di, Fabian Manhardt, Federico Tombari, Nassir Navab, Benjamin Busam:
+MonoGraspNet: 6-DoF Grasping with a Single RGB Image. 1708-1714"
+"Cheng Fang, Shuangliang Li, Di Wang, Fengzhi Guo, Dezhen Song, Jun Zou:
+The Third Generation (G3) Dual-Modal and Dual Sensing Mechanisms (DMDSM) Pretouch Sensor for Robotic Grasping. 1731-1736"
+"Thais Bernardi, Yoann Fleytoux, Jean-Baptiste Mouret, Serena Ivaldi:
+Learning Height for Top-Down Grasps with the DIGIT Sensor. 1737-1743"
+"Yucheng Xu, Mohammadreza Kasaei, Hamidreza Kasaei, Zhibin Li:
+Instance-wise Grasp Synthesis for Robotic Grasping. 1744-1750"
+"Xiaozheng Liu, Yunzhou Zhang, He Cao, Dexing Shan, Jiaqi Zhao:
+Joint Segmentation and Grasp Pose Detection with Multi-Modal Feature Fusion Network. 1751-1756"
+"Qiyu Dai, Yan Zhu, Yiran Geng, Ciyu Ruan, Jiazhao Zhang, He Wang:
+GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF. 1757-1763"
+"Leonardo Barcellona, Alberto Bacchin, Alberto Gottardi, Emanuele Menegatti, Stefano Ghidoni:
+FSG-Net: a Deep Learning model for Semantic Robot Grasping through Few-Shot Learning. 1793-1799"
+"Jiaxi Wu, Haoran Wu, Shanlin Zhong, Quqin Sun, Yinlin Li:
+Learning Pre-Grasp Manipulation of Flat Objects in Cluttered Environments using Sliding Primitives. 1800-1806"
+"Thomas Weng, David Held, Franziska Meier, Mustafa Mukadam:
+Neural Grasp Distance Fields for Robot Manipulation. 1814-1821"
+"Hanwen Cao, Jianshu Zhou, Junda Huang, Yichuan Li, Ng Cheng Meng, Rui Cao, Qi Dou, Yunhui Liu:
+Two-Stage Grasping: A New Bin Picking Framework for Small Objects. 2584-2590"
+"Carlos Quintero-Peña, Zachary K. Kingston, Tianyang Pan, Rahul Shome, Anastasios Kyrillidis, Lydia E. Kavraki:
+Optimal Grasps and Placements for Task and Motion Planning in Clutter. 3707-3713"
+"Valerija Holomjova, Andrew J. Starkey, Pascal Meißner:
+GSMR-CNN: An End-to-End Trainable Architecture for Grasping Target Objects from Multi-Object Scenes. 3808-3814"
+"Seyed Saber Mohammadi, Nuno Ferreira Duarte, Dimitrios Dimou, Yiming Wang, Matteo Taiana, Pietro Morerio, Atabak Dehban, Plinio Moreno, Alexandre Bernardino, Alessio Del Bue, José Santos-Victor:
+3DSGrasp: 3D Shape-Completion for Robotic Grasp. 3815-3822"
+"Bipasha Sen, Aditya Agarwal, Gaurav Singh, Brojeshwar Bhowmick, Srinath Sridhar, K. Madhava Krishna:
+SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping. 3838-3845"
+"Hao Zhang, Hongzhuo Liang, Lin Cong, Jianzhi Lyu, Long Zeng, Pingfa Feng, Jianwei Zhang:
+Reinforcement Learning Based Pushing and Grasping Objects from Ungraspable Poses. 3860-3866"
+"Haojie Huang, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt:
+Edge Grasp Network: A Graph-Based SE(3)-invariant Approach to Grasp Detection. 3882-3888"
+"Sudeep Dasari, Abhinav Gupta, Vikash Kumar:
+Learning Dexterous Manipulation from Exemplar Object Trajectories and Pre-Grasps. 3889-3896"
+"Khashayar Rohanimanesh, Jake Metzger, William Richards, Aviv Tamar:
+Online Tool Selection with Learned Grasp Prediction Models. 5844-5850"
+"Seok-Kyu Kang, Changhyun Choi:
+FOGL: Federated Object Grasping Learning. 5851-5857"
+"Lei Zhao, Haoyue Liu, Feihan Li, Xingyu Ding, Yuhao Sun, Fuchun Sun, Jianhua Shan, Qi Ye, Lincheng Li, Bin Fang:
+Implementation and Optimization of Grasping Learning with Dual-modal Soft Gripper. 5887-5893"
+"Isabella Huang, Yashraj S. Narang, Ruzena Bajcsy, Fabio Ramos, Tucker Hermans, Dieter Fox:
+DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets. 5894-5901"
+"Julen Urain, Niklas Funk, Jan Peters, Georgia Chalvatzaki:
+SE(3)-DiffusionFields: Learning smooth cost functions for joint grasp and motion optimization through diffusion. 5923-5930"
+"Ethan K. Gordon, Rana Soltani-Zarrin:
+Online augmentation of learned grasp sequence policies for more adaptable and data-efficient in-hand manipulation. 5970-5976"
+"Yijun Cheng, Yanpei Huang, Ziwei Wang, Etienne Burdet:
+Foot gestures to control the grasping of a surgical robot. 6844-6850"
+"Jinyeong Jeong, Min Jun Kim:
+Passivity-based Decentralized Control for Collaborative Grasping of Under-Actuated Aerial Manipulators. 7699-7705"
+"Timothy R. Player, Dongsik Chang, Fuxin Li, Geoffrey A. Hollinger:
+Real-Time Generative Grasping with Spatio-temporal Sparse Convolution. 7981-7987"
+"Yiye Chen, Yunzhi Lin, Ruinian Xu, Patricio A. Vela:
+Keypoint-GraspNet: Keypoint-based 6-DoF Grasp Generation from the Monocular RGB-D input. 7988-7995"
+"Zhanpeng He, Nikhil Chavan Dafle, Jinwook Huh, Shuran Song, Volkan Isler:
+Pick2Place: Task-aware 6DoF Grasp Estimation via Object-Centric Perspective Affordance. 7996-8002"
+"Ran Qin, Haoxiang Ma, Boyang Gao, Di Huang:
+RGB-D Grasp Detection via Depth Guided Learning with Cross-modal Attention. 8003-8009"
+"Cheng Zhou, Yanbo Long, Lei Shi, Longfei Zhao, Yu Zheng:
+Differential Dynamic Programming based Hybrid Manipulation Strategy for Dynamic Grasping. 8040-8046"
+"Yuchen Mo, Hanbo Zhang, Tao Kong:
+Towards Open-World Interactive Disambiguation for Robotic Grasping. 8061-8067"
+"Puhao Li, Tengyu Liu, Yuyang Li, Yiran Geng, Yixin Zhu, Yaodong Yang, Siyuan Huang:
+GenDexGrasp: Generalizable Dexterous Grasping. 8068-8074"
+"Dylan Turpin, Tao Zhong, Shutong Zhang, Guanglei Zhu, Eric Heiden, Miles Macklin, Stavros Tsogkas, Sven J. Dickinson, Animesh Garg:
+Fast-Grasp'D: Dexterous Multi-finger Grasp Generation Through Differentiable Simulation. 8082-8089"
+"Mingze Wei, Yaomin Huang, Zhiyuan Xu, Ning Liu, Zhengping Che, Xinyu Zhang, Chaomin Shen, Feifei Feng, Chun Shan, Jian Tang:
+CMG-Net: An End-to-End Contact-based Multi-Finger Dexterous Grasping Network. 9125-9131"
+"Xingyu Zhu, Xin Wang, Jonathan Freer, Hyung Jin Chang, Yixing Gao:
+Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation. 9471-9477"
+"Abhinav K. Keshari, Hanwen Ren, Ahmed Hussain Qureshi:
+CoGrasp: 6-DoF Grasp Generation for Human-Robot Collaboration. 9829-9836"
+"Andrew SaLoutos, Hongmin Kim, Elijah Stanger-Jones, Menglong Guo, Sangbae Kim:
+Towards Robust Autonomous Grasping with Reflexes Using High-Bandwidth Sensing and Actuation. 10254-10260"
+"Yiting Chen, Junnan Jiang, Ruiqi Lei, Yasemin Bekiroglu, Fei Chen, Miao Li:
+GraspAda: Deep Grasp Adaptation through Domain Transfer. 10268-10274"
+"Yilin Cai, Shenli Yuan:
+In-Hand Manipulation in Power Grasp: Design of an Adaptive Robot Hand with Active Surfaces. 10296-10302"
+"Geng Gao, Anany Dwivedi, Minas V. Liarokapis:
+The New Dexterity Adaptive Humanlike Robot Hand: Employing a Reconfigurable Palm for Robust Grasping and Dexterous Manipulation. 10310-10316"
+"Ian H. Taylor, Maheera Bawa, Alberto Rodriguez:
+A Tactile-enabled Hybrid Rigid-Soft Continuum Manipulator for Forceful Enveloping Grasps via Scale Invariant Design. 10331-10337"
+"Christopher J. Ford, Haoran Li, John Lloyd, Manuel G. Catalano, Matteo Bianchi, Efi Psomopoulou, Nathan F. Lepora:
+Tactile-Driven Gentle Grasping for Human-Robot Collaborative Tasks. 10394-10400"
+"Nathan Elangovan, Ricardo V. Godoy, Felipe Sanches, Ke Wang, Tom White, Patrick Jarvis, Minas V. Liarokapis:
+On Human Grasping and Manipulation in Kitchens: Automated Annotation, Insights, and Metrics for Effective Data Collection. 11329-11335"
+"Ruicheng Wang, Jialiang Zhang, Jiayi Chen, Yinzhen Xu, Puhao Li, Tengyu Liu, He Wang:
+DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation. 11359-11366"
+"Kechun Xu, Shuqi Zhao, Zhongxiang Zhou, Zizhang Li, Huaijin Pi, Yifeng Zhu, Yue Wang, Rong Xiong:
+A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter. 11597-11604"
+"Elie Ayoub, Patrick Levesque, Inna Sharf:
+Grasp Planning with CNN for Log-loading Forestry Machine. 11802-11808"
+"Stephanie Newdick, Nitin Ongole, Tony G. Chen, Edward Schmerling, Mark R. Cutkosky, Marco Pavone:
+Motion Planning for a Climbing Robot with Stochastic Grasps. 11838-11844"
+"Siddharth Rupavatharam, Caleb Escobedo, Daewon Lee, Colin Prepscius, Lawrence D. Jackel, Richard E. Howard, Volkan Isler:
+SonicFinger: Pre-touch and Contact Detection Tactile Sensor for Reactive Pregrasping. 12556-12562"

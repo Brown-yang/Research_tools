@@ -1,0 +1,91 @@
+﻿Paper
+"Kyosuke Ishibashi, Hiroki Ishikawa, Osamu Azami, Ko Yamamoto:
+Modeling of Hydraulic Soft Hand with Rubber Sheet Reservoir and Evaluation of its Grasping Flexibility and Control. 229-234"
+"Yichen Cai, Jianfeng Gao, Christoph Pohl, Tamim Asfour:
+Visual Imitation Learning of Task-Oriented Object Grasping and Rearrangement. 364-371"
+"Hye Jung Yoon, Juno Kim, Yesol Park, Jun-Ki Lee, Byoung-Tak Zhang:
+Seg2Grasp: A Robust Modular Suction Grasping in Bin Picking. 2921-2927"
+"Tianyi Ko, Takuya Ikeda, Thomas Stewart, Robert Lee, Koichi Nishiwaki:
+Gravity-aware Grasp Generation with Implicit Grasp Mode Selection for Underactuated Hands. 2964-2970"
+"Emily Sheetz, Misha Savchenko, Emma Zemler, Abbas Presswala, Andrew Crouch, Shaun Azimi, Benjamin Kuipers:
+Multi-Fingered End-Effector Grasp Reflex Modeling for One-Shot Tactile Servoing in Tool Manipulation Tasks. 2971-2977"
+"Luis Felipe Casas Murillo, Ninad Khargonkar, Balakrishnan Prabhakaran, Yu Xiang:
+MultiGripperGrasp: A Dataset for Robotic Grasping from Parallel Jaw Grippers to Dexterous Hands. 2978-2984"
+"Johann Huber, François Hélénon, Mathilde Kappel, Elie Chelly, Mahdi Khoramshahi, Faïz Ben Amar, Stéphane Doncieux:
+Speeding up 6-DoF Grasp Sampling with Quality-Diversity. 2985-2991"
+"Albert H. Li, Preston Culbertson, Aaron D. Ames:
+Toward An Analytic Theory of Intrinsic Robustness for Dexterous Grasping. 2992-2999"
+"Hanwen Wang, Ying Zhang, Yunlong Wang, Jian Li:
+6-DoF Grasp Detection in Clutter with Enhanced Receptive Field and Graspable Balance Sampling. 3000-3007"
+"Pouya Samandi, Kamal Gupta, Mehran Mehrandezh:
+Enhancing Object Grasping Efficiency with Deep Learning and Post-processing for Multi-finger Robotic Hands. 3014-3021"
+"Shi Chen, Bihao Zhang, Kehan Feng, Yizhou Wang, Jiayun Li, Wenzeng Zhang:
+A Novel Geometrical Structure Robot Hand for Linear-parallel Pinching and Coupled Self-adaptive Hybrid Grasping. 3030-3035"
+"Dayou Li, Chenkun Zhao, Shuo Yang, Ran Song, Xiaolei Li, Wei Zhang:
+MPGNet: Learning Move-Push-Grasping Synergy for Target-Oriented Grasping in Occluded Scenes. 5064-5071"
+"Xiaofeng Mao, Yucheng Xu, Ruoshi Wen, Mohammadreza Kasaei, Wanming Yu, Efi Psomopoulou, Nathan F. Lepora, Zhibin Li:
+Efficient Tactile Sensing-based Learning from Limited Real-world Demonstrations for Dual-arm Fine Pinch-Grasp Skills. 5112-5119"
+"Jiayi Chen, Yuxing Chen, Jialiang Zhang, He Wang:
+Task-Oriented Dexterous Hand Pose Synthesis Using Differentiable Grasp Wrench Boundary Estimator. 5281-5288"
+"Sicheng Yang, Wang Wei Lee, Zhong Zhang, Youda Xiong, Jiaming Liang, Peng Lu, Yonghui Zhu, Tianliang Liu, Jingchen Li, Rui Wang, Xiong Li, Yu Zheng:
+TRX-Hand5: An Anthropomorphic Hand with Integrated Tactile Feedback for Grasping and Manipulation in Human Environments. 5289-5296"
+"Jihao Li, Tingbo Liao, Hassen Nigatu, Haotian Guo, Guodong Lu, Huixu Dong:
+Under-actuated Robotic Gripper with Multiple Grasping Modes Inspired by Human Finger. 5297-5302"
+"Sonja Groß, Michael Ratzel, Edgar Welte, Diego Hidalgo-Carvajal, Lingyun Chen, Edmundo Pozo Fortunic, Amartya Ganguly, Abdalla Swikir, Sami Haddadin:
+OPENGRASP-LITE Version 1.0: A Tactile Artificial Hand with a Compliant Linkage Mechanism. 5311-5318"
+"Niko Kleer, Martin Feick, Amr Gomaa, Michael Feld, Antonio Krüger:
+Bridging the Gap to Natural Language-based Grasp Predictions through Semantic Information Extraction. 7040-7047"
+"Hao Ding, Yiming Zeng, Zhaoliang Wan, Hui Cheng:
+OPG-Policy: Occluded Push-Grasp Policy Learning with Amodal Segmentation. 7257-7263"
+"Kairui Ding, Boyuan Chen, Ruihai Wu, Yuyang Li, Zongzheng Zhang, Huan-ang Gao, Siqi Li, Guyue Zhou, Yixin Zhu, Hao Dong, Hao Zhao:
+PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments. 7278-7285"
+"Wenshuo Wang, Haiyue Zhu, Marcelo H. Ang:
+GraspContrast: Self-supervised Contrastive Learning with False Negative Elimination for 6-DoF Grasp Detection. 7294-7300"
+"Thomas Pitcher, Julian Förster, Jen Jen Chung:
+Reinforcement Learning for Active Search and Grasp in Clutter. 7301-7306"
+"Jan-Gerrit Habekost, Connor Gäde, Philipp Allgeuer, Stefan Wermter:
+Inverse Kinematics for Neuro-Robotic Grasping with Humanoid Embodied Agents. 7315-7322"
+"Jinxuan Xu, Shiyu Jin, Yutian Lei, Yuqian Zhang, Liangjun Zhang:
+RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model. 7323-7330"
+"Dominik Winkelbauer, Rudolph Triebel, Berthold Bäuml:
+A Learning-based Controller for Multi-Contact Grasps on Unknown Objects with a Dexterous Hand. 7331-7337"
+"Gaurav Singh, Sanket Kalwar, Md Faizal Karim, Bipasha Sen, Nagamanikandan Govindan, Srinath Sridhar, K. Madhava Krishna:
+Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation. 7344-7350"
+"Tuan Van Vo, Minh Nhat Vu, Baoru Huang, An Vuong, Ngan Le, Thieu Vo, Anh Nguyen:
+Language-driven Grasp Detection with Mask-guided Attention. 7492-7498"
+"Meng Li, Qi Zhao, Shuchang Lyu, Chunlei Wang, Yujing Ma, Guangliang Cheng, Chenguang Yang:
+OVGNet: A Unified Visual-Linguistic Framework for Open-Vocabulary Robotic Grasping. 7507-7513"
+"Marios Kiatos, Leonidas Koutras, Iason Sarantopoulos, Zoe Doulgeri:
+Learning a Pre-Grasp Manipulation Policy to Effectively Retrieve a Target in Dense Clutter. 7543-7549"
+"Gregory Xie, Lillian Chin, Byungchul Kim, Rachel M. Holladay, Daniela Rus:
+Strong Compliant Grasps Using a Cable-Driven Soft Gripper. 8696-8703"
+"Steffen Puhlmann, Lion-Constantin Weber, Hannes Höppner:
+Programming Passive Fingertip Deformation for Improved Grasping and Manipulation. 9175-9181"
+"Junghyun Kim, Gi-Cheon Kang, Jaein Kim, Seoyun Yang, Minjoon Jung, Byoung-Tak Zhang:
+PGA: Personalizing Grasping Agents with Single Human-Robot Interaction. 9277-9284"
+"Ping Jiang, Kazuma Komoda, Haifeng Han, Ooga Junichiro:
+MultipleCupSuctionNet: Deep Neural Network for Detecting Grasp Pose of a Vacuum Gripper with Multiple Suction Cups based on YOLO Feature Map Affine Transformation. 9496-9501"
+"Zhi Wang, Xun Wu, Shaohan Huang, Li Dong, Wenhui Wang, Shuming Ma, Furu Wei:
+KOSMOS-E : Learning to Follow Instruction for Robotic Grasping. 9510-9517"
+"Yu Xiang, Sai Haneesh Allu, Rohith Peddi, Tyler Summers, Vibhav Gogate:
+Grasping Trajectory Optimization with Point Clouds. 9885-9892"
+"Jinyu Zhang, Yongchong Gu, Jianxiong Gao, Haitao Lin, Qiang Sun, Xinwei Sun, Xiangyang Xue, Yanwei Fu:
+LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion. 10059-10065"
+"Samuel Li, Sarthak Bhagat, Joseph Campbell, Yaqi Xie, Woojun Kim, Katia P. Sycara, Simon Stepputtis:
+ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition. 10527-10534"
+"Songting Liu, Tat Joo Teo, Zhiping Lin, Haiyue Zhu:
+RelationGrasp: Object-Oriented Prompt Learning for Simultaneously Grasp Detection and Manipulation Relationship in Open Vocabulary. 10890-10896"
+"Georgios Papagiannis, Kamil Dreczkowski, Vitalis Vosylius, Edward Johns:
+Adapting Skills to Novel Grasps: A Self-Supervised Approach. 10897-10904"
+"Hun Jang, Valentyn Petrichenko, Joonbum Bae, Kevin Haninger:
+Soft finger rotational stability for precision grasps. 10919-10925"
+"Yang Yang, Kejin Zhu, Yuan Xie, Shaoyang Yan, Juan Yi, Pei Jiang, Yunquan Li, Yazhan Zhang, Yingtian Li:
+Origami Actuator with Tunable Limiting Layer for Reconfigurable Soft Robotic Grasping. 11402-11407"
+"Nikolaos Tsagkas, Jack Rome, Subramanian Ramamoorthy, Oisin Mac Aodha, Chris Xiaoxuan Lu:
+Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors. 11610-11617"
+"Carlota Parés-Morlans, Claire Chen, Yijia Weng, Michelle Yi, Yuying Huang, Nick Heppert, Linqi Zhou, Leonidas J. Guibas, Jeannette Bohg:
+AO-Grasp: Articulated Object Grasp Generation. 13096-13103"
+"Luke Beddow, Helge A. Wurdemann, Dimitrios Kanoulas:
+Evaluating a Movable Palm in Caging Inspired Grasping using a Reinforcement Learning-based Approach. 13104-13111"
+"Nghia Nguyen, Minh Nhat Vu, Baoru Huang, An Vuong, Ngan Le, Thieu Vo, Anh Nguyen:
+Lightweight Language-driven Grasp Detection using Conditional Consistency Model. 13719-13725"

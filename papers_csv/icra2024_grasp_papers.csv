@@ -1,0 +1,95 @@
+﻿Paper
+"Yitian Shi, Philipp Schillinger, Miroslav Gabriel, Alexander Qualmann, Zohar Feldman, Hanna Ziesche, Ngo Anh Vien:
+Uncertainty-driven Exploration Strategies for Online Grasp Learning. 781-787"
+"Huy Le, Philipp Schillinger, Miroslav Gabriel, Alexander Qualmann, Ngo Anh Vien:
+Pseudo Labeling and Contextual Curriculum Learning for Online Grasp Learning in Robotic Bin Picking. 788-794"
+"Yuni Fuchioka, Masashi Hamaya:
+An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from Visuotactile Sensors. 1077-1083"
+"Jiazhao Zhang, Nandiraju Gireesh, Jilong Wang, Xiaomeng Fang, Chaoyi Xu, Weiguang Chen, Liu Dai, He Wang:
+GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion. 1399-1405"
+"Michael Noseworthy, Seiji Shaw, Chad C. Kessens, Nicholas Roy:
+Amortized Inference for Efficient Grasp Model Adaptation. 1886-1892"
+"Haonan Duan, Yiming Li, Daheng Li, Wei Wei, Yayu Huang, Peng Wang:
+Learning Realistic and Reasonable Grasps for Anthropomorphic Hand in Cluttered Scenes. 1893-1899"
+"Hanzhi Chen, Binbin Xu, Stefan Leutenegger:
+FuncGrasp: Learning Object-Centric Neural Grasp Functions from Single Annotated Example Object. 1900-1906"
+"Naif Wasel Alharthi, Martim Brandão:
+Physical and Digital Adversarial Attacks on Grasp Quality Networks. 1907-1902"
+"Connor L. Yako, Jerome B. Nowak, Shenli Yuan, Kenneth Salisbury:
+Vertical Vibratory Transport of Grasped Parts Using Impacts. 1950-1956"
+"Xiangbo Wang, Tianran Zhang, Hongze Yu, Zhenwei Wen, Lide Fang, Huaping Liu, Fuchun Sun, Lixue Tang, Bin Fang:
+Bionic Soft Fingers with Hybrid Variable Stiffness Mechanisms for Multimode Grasping. 1957-1963"
+"Lei Zhang, Kaixin Bai, Qiang Li, Zhaopeng Chen, Jianwei Zhang:
+A Collision-Aware Cable Grasping Method in Cluttered Environment. 2126-2132"
+"Haochen Yong, Fukang Xu, Chenfei Li, Han Ding, Zhigang Wu:
+Design and Modeling of a Nested Bi-cavity-based Soft Growing Robot for Grasping in Constrained Environments. 2346-2352"
+"Kai-Tai Song, Hsiang-Hsi Chen:
+HAGrasp: Hybrid Action Grasp Control in Cluttered Scenes using Deep Reinforcement Learning. 3131-3137"
+"Jiakang Zhong, Yew Wee Wong, Jiong Jin, Yong Song, Xianfeng Yuan, Xiaoqi Chen:
+Dual-Critic Deep Reinforcement Learning for Push-Grasping Synergy in Cluttered Environment. 3138-3144"
+"Gi-Cheon Kang, Junghyun Kim, Jaein Kim, Byoung-Tak Zhang:
+PROGrasp: Pragmatic Human-Robot Communication for Object Grasping. 3304-3310"
+"Jiayuan Luo, Yaxin Liu, Han Wang, Mengyuan Ding, Xuguang Lan:
+Grasp Manipulation Relationship Detection based on Graph Sample and Aggregation. 4098-4104"
+"Johann Huber, François Hélénon, Hippolyte Watrelot, Faïz Ben Amar, Stéphane Doncieux:
+Domain Randomization for Sim2real Transfer of Automatically Generated Grasping Datasets. 4112-4118"
+"Julia Starke, Tamim Asfour:
+Kinematic Synergy Primitives for Human-Like Grasp Motion Generation. 4119-4125"
+"Pedro Piacenza, Jiacheng Yuan, Jinwook Huh, Volkan Isler:
+VFAS-Grasp: Closed Loop Grasping with Visual Feedback and Adaptive Sampling. 4126-4132"
+"Malcolm G. A. Tisdale, Joel W. Burdick:
+The Fractal Hand-II: Reviving a Classic Mechanism for Contemporary Grasping Challenges. 4133-4139"
+"René Zurbrügg, Yifan Liu, Francis Engelmann, Suryansh Kumar, Marco Hutter, Vaishakh Patil, Fisher Yu:
+ICGNet: A Unified Approach for Instance-Centric Grasping. 4140-4146"
+"Kyle DuFrene, Keegan Nave, Joshua Campbell, Ravi Balasubramanian, Cindy Grimm:
+The Grasp Reset Mechanism: An Automated Apparatus for Conducting Grasping Trials. 4147-4153"
+"Yushi Liu, Alexander Qualmann, Zehao Yu, Miroslav Gabriel, Philipp Schillinger, Markus Spies, Ngo Anh Vien, Andreas Geiger:
+Efficient End-to-End Detection of 6-DoF Grasps for Robotic Bin Picking. 5427-5433"
+"Jun Shi, Yong A, Yixiang Jin, Dingzhe Li, Haoyu Niu, Zhezhu Jin, He Wang:
+ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera. 5441-5447"
+"Yu Cui, Qi Ye, Qingtao Liu, Anjun Chen, Gaofeng Li, Jiming Chen:
+InterRep: A Visual Interaction Representation for Robotic Grasping. 6448-6454"
+"Ho Jin Choi, Nadia Figueroa:
+Towards Feasible Dynamic Grasping: Leveraging Gaussian Process Distance Field, SE(3) Equivariance, and Riemannian Mixture Models. 6455-6461"
+"Hengxu Yan, Haoshu Fang, Cewu Lu:
+A Surprisingly Efficient Representation for Multi-Finger Grasping. 6462-6469"
+"Fuqiang Zhao, Dzmitry Tsetserukou, Qian Liu:
+GrainGrasp: Dexterous Grasp Generation with Fine-grained Contact Guidance. 6470-6476"
+"Jungpyo Lee, Zheng Sun, Zhipeng Dong, Fei Chen, Hannah S. Stuart:
+Regrasping on Printed Circuit Boards with the Smart Suction Cup. 6477-6483"
+"Won Kyung Do, Ankush Kundan Dhawan, Mathilda Kitzmann, Monroe Kennedy III:
+DenseTact-Mini: An Optical Tactile Sensor for Grasping Multi-Scale Objects From Flat Surfaces. 6928-6934"
+"Albert Enyedy, Ashay Aswale, Berk Çalli, Michael Gennert:
+Stereo Image-based Visual Servoing Towards Feature-based Grasping. 7325-7331"
+"Ryogo Kai, Yuzuka Isobe, Sarthak Pathak, Kazunori Umeda:
+Visual Feedback Control of an Underactuated Hand for Grasping Brittle and Soft Foods. 7332-7338"
+"Malte Mosbach, Sven Behnke:
+Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects. 7515-7521"
+"Sverre Herland, Kerstin Bach, Ekrem Misimi:
+6-DoF Closed-Loop Grasping with Reinforcement Learning. 7812-7818"
+"Xiwen Dengxiong, Xueting Wang, Shi Bai, Yunbo Zhang:
+Self-supervised 6-DoF Robot Grasping by Demonstration via Augmented Reality Teleoperation System. 7819-7826"
+"Gergely Sóti, Xi Huang, Christian Wurll, Björn Hein:
+6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs. 9495-9501"
+"Peter Mitrano, Dmitry Berenson:
+The Grasp Loop Signature: A Topological Representation for Manipulation Planning with Ropes and Cables. 10888-10894"
+"Yongliang Wang, Kamal Mokhtar, Cock Heemskerk, Hamidreza Kasaei:
+Self-supervised Learning for Joint Pushing and Grasping Policies in Highly Cluttered Environments. 13840-13847"
+"Hamidreza Kasaei, Mohammadreza Kasaei:
+Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios. 13855-13861"
+"Lei Zhou, Haozhe Wang, Zhengshen Zhang, Zhiyang Liu, Francis E. H. Tay, Marcelo H. Ang:
+You Only Scan Once: A Dynamic Scene Reconstruction Pipeline for 6-DoF Robotic Grasping of Novel Objects. 13891-13897"
+"Haoxiang Ma, Ran Qin, Modi Shi, Boyang Gao, Di Huang:
+Sim-to-Real Grasp Detection with Global-to-Local RGB-D Adaptation. 13910-13917"
+"Luuk van den Bent, Tomás Coleman, Robert Babuska:
+Robotic Grasping of Harvested Tomato Trusses Using Vision and Online Learning. 13947-13953"
+"Vuong Dinh An, Minh Nhat Vu, Hieu Le, Baoru Huang, Huynh Thi Thanh Binh, Thieu Vo, Andreas Kugi, Anh Nguyen:
+Grasp-Anything: Large-scale Grasp Dataset from Foundation Models. 14030-14037"
+"Dirk-Jan Boonstra, Laurence Willemet, Jelle Luijkx, Michaël Wiertlewski:
+Learning to estimate incipient slip with tactile sensing to gently grasp objects. 16118-16124"
+"Haoming Li, Qi Ye, Yuchi Huo, Qingtao Liu, Shijian Jiang, Tao Zhou, Xiang Li, Yang Zhou, Jiming Chen:
+TPGP: Temporal-Parametric Optimization with Deep Grasp Prior for Dexterous Motion Planning. 18106-18112"
+"Elle Miller, Maximilian Durner, Matthias Humt, Gabriel Quere, Wout Boerdijk, Ashok M. Sundaram, Freek Stulp, Jörn Vogel:
+Unknown Object Grasping for Assistive Robotics. 18157-18163"
+"Michael Murray, Abhishek Gupta, Maya Cakmak:
+Learning to Grasp in Clutter with Interactive Visual Failure Prediction. 18172-18178"
